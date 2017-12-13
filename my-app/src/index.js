@@ -1,9 +1,10 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import Surprise from './components/surprise';
+import App from './components/app';
+import Pics from './components/pics.json'
 import './index.css';
 
 ReactDOM.render(
-  <Surprise />,
+  <App pictures={Pics} />,
   document.getElementById('root')
 );
