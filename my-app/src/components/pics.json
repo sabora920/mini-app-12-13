@@ -1,14 +1,26 @@
 [
- {
-   "description": "Squirrel!", 
-   "url": "https://media.giphy.com/media/l0IybQ6l8nfKjxQv6/giphy.gif"
- },
- {
-   "description": "Easy Tree",
-   "url": "https://media.giphy.com/media/P3aaEHlnOuj6M/giphy.gif"
- },
- {
-   "description": "CSS Explained",
-   "url": "https://media.giphy.com/media/yYSSBtDgbbRzq/giphy.gif"
- }
+	{
+		"description": "Don't Open That!", 
+		"url": "https://media.giphy.com/media/3oxHQqcNQCa2pUgAp2/giphy.gif"
+	},
+	{
+		"description": "Easy Tree",
+		"url": "https://media.giphy.com/media/P3aaEHlnOuj6M/giphy.gif"
+	},
+	{
+		"description": "CSS Explained",
+		"url": "https://media.giphy.com/media/yYSSBtDgbbRzq/giphy.gif"
+	},
+	{
+		"description": "Doggy on Stairs", 
+		"url":  "https://media.giphy.com/media/bGJ8efxA8jTck/giphy.gif"
+	},
+	{
+		"description": "Martian Learning React",
+		"url": "https://media.giphy.com/media/R0kVcQUow2Xtu/giphy.gif"
+	},
+	{
+		"description": "The End",
+		"url": "https://media.giphy.com/media/cN34n6Ka8GrcY/giphy.gif"
+	}
 ]
